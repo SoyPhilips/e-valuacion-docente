@@ -1,4 +1,4 @@
-# 🎓 e-VALuacion - Sistema de Evaluación Docente Digital
+# e-VALuacion - Sistema de Evaluación Docente Digital
 
 [![GitHub](https://img.shields.io/badge/GitHub-Repository-blue?logo=github)](https://github.com)
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
@@ -6,11 +6,11 @@
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![SQLite](https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white)](https://www.sqlite.org/)
 
-## 📋 Descripción del Proyecto
+## Descripción del Proyecto
 
 **e-VALuacion** es una herramienta web innovadora diseñada para modernizar el proceso de evaluación del desempeño docente en instituciones educativas. La aplicación permite que estudiantes y directivos evalúen de manera digital, segura y trazable diversos aspectos del proceso de enseñanza.
 
-### 🎯 Funcionalidades Principales
+### Funcionalidades Principales
 
 - **Evaluación Digital Segura**: Sistema de autenticación y trazabilidad completa
 - **Múltiples Tipos de Evaluación**: Exámenes, tareas y proyectos
@@ -18,14 +18,14 @@
 - **Interfaz Intuitiva**: Accesible desde cualquier dispositivo
 - **Gestión Centralizada**: Administración completa de evaluaciones
 
-## 👥 Equipo de Desarrollo
+## Equipo de Desarrollo
 
 | Rol | Nombre | Responsabilidades |
 |-----|--------|-------------------|
 | **Líder de Proyecto & Desarrollador Frontend** | Felipe Ramos | Coordinación general, desarrollo de interfaces, gestión de repositorio |
 | **Desarrollador Backend & Analista** | Carlos García | Desarrollo de lógica de negocio, base de datos, análisis de requerimientos |
 
-## 🛠️ Tecnologías Utilizadas
+## Tecnologías Utilizadas
 
 ### Frontend
 - **HTML5**: Estructura semántica y accesible
@@ -40,7 +40,7 @@
 - **Git**: Control de versiones distribuido
 - **GitHub**: Repositorio remoto y colaboración
 
-## 📁 Estructura del Proyecto
+## Estructura del Proyecto
 
 ```
 Proyecto-servicioatencionestudianteUNIPAZ-informe-final/
@@ -60,24 +60,24 @@ Proyecto-servicioatencionestudianteUNIPAZ-informe-final/
     └── lecciones_aprendidas.md
 ```
 
-## 🚀 Características Destacadas
+## Características Destacadas
 
-### ✨ Innovación
+### Innovación
 - Reemplazo de formularios físicos por sistema digital
 - Interfaz moderna y responsive
 - Proceso de evaluación colaborativo y transparente
 
-### 🔒 Seguridad
+### Seguridad
 - Sistema de autenticación robusto
 - Trazabilidad completa de evaluaciones
 - Protección de datos personales
 
-### 📊 Análisis
+### Análisis
 - Reportes automáticos de desempeño
 - Indicadores visuales y métricas
 - Apoyo en toma de decisiones académicas
 
-## 📖 Documentación
+## Documentación
 
 La documentación completa del proyecto se encuentra organizada en las siguientes secciones:
 
@@ -87,7 +87,7 @@ La documentación completa del proyecto se encuentra organizada en las siguiente
 4. **[Desarrollo](./Desarrollo/)**: Cronograma y metodología de evaluación
 5. **[Conclusiones](./conclusiones/)**: Lecciones aprendidas y recomendaciones
 
-## 🎯 Objetivos del Proyecto
+## Objetivos del Proyecto
 
 ### Objetivo General
 Desarrollar una herramienta web que permita la evaluación digital del desempeño docente, modernizando el proceso tradicional mediante tecnologías web actuales y metodologías de desarrollo colaborativo.
@@ -98,7 +98,7 @@ Desarrollar una herramienta web que permita la evaluación digital del desempeñ
 - Generar reportes automáticos de desempeño docente
 - Establecer un flujo de trabajo colaborativo usando Git y GitHub
 
-## 🏆 Criterios de Evaluación
+## Criterios de Evaluación
 
 | Criterio | Descripción | Puntos |
 |----------|-------------|--------|
@@ -110,14 +110,14 @@ Desarrollar una herramienta web que permita la evaluación digital del desempeñ
 | **Presentación final del trabajo** | Coherencia del entregable y exposición oral | 10 |
 | **Total** | | **100** |
 
-## 📅 Cronograma de Desarrollo
+## Cronograma de Desarrollo
 
 - **Semana 1**: Análisis de requerimientos y diseño inicial
 - **Semana 2**: Desarrollo de interfaces y funcionalidades core
 - **Semana 3**: Integración, pruebas y documentación
 - **Semana 4**: Refinamiento y preparación de entrega final
 
-## 🤝 Contribución
+## Contribución
 
 Este proyecto sigue las mejores prácticas de desarrollo colaborativo:
 
@@ -127,15 +127,15 @@ Este proyecto sigue las mejores prácticas de desarrollo colaborativo:
 4. **Push** a la rama (`git push origin feature/nueva-funcionalidad`)
 5. **Pull Request** para revisión
 
-## 📞 Contacto
+## Contacto
 
 - **Felipe Ramos**: Líder de Proyecto
 - **Carlos García**: Desarrollador Backend
 
 ---
 
-*Proyecto desarrollado como parte del parcial de Análisis y Desarrollo de Sistemas de Información - UNIPAZ*
+*Proyecto desarrollado como parte del parcial de Análisis y Desarrollo de Sistemas de Información*
 
-**Universidad Nacional Abierta y a Distancia - UNAD**  
-**Programa de Ingeniería de Sistemas**  
-**2024**
+**Instituto universitario de la Paz - UNIPAZ**  
+**Programa de Ingeniería Informática**  
+**2025**

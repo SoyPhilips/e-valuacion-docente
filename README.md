@@ -134,7 +134,7 @@ Este proyecto sigue las mejores prácticas de desarrollo colaborativo:
 
 ---
 
-*Proyecto desarrollado como parte del parcial de Análisis y Desarrollo de Sistemas de Información*
+*Proyecto desarrollado como parte del parcial de Analisis y Diseño de Sistemas de información*
 
 **Instituto universitario de la Paz - UNIPAZ**  
 **Programa de Ingeniería Informática**  

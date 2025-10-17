@@ -112,10 +112,12 @@ Desarrollar una herramienta web que permita la evaluación digital del desempeñ
 
 ## Cronograma de Desarrollo
 
-- **Semana 1**: Análisis de requerimientos y diseño inicial
-- **Semana 2**: Desarrollo de interfaces y funcionalidades core
-- **Semana 3**: Integración, pruebas y documentación
-- **Semana 4**: Refinamiento y preparación de entrega final
+**Tiempo total del parcial: 7:30 AM - 9:40 AM (2 horas 10 minutos)**
+
+- **7:30 - 8:00 AM (30 min)**: Análisis de requerimientos y diseño inicial
+- **8:00 - 8:50 AM (50 min)**: Desarrollo de interfaces y funcionalidades core
+- **8:50 - 9:20 AM (30 min)**: Integración, pruebas y documentación
+- **9:20 - 9:40 AM (20 min)**: Refinamiento y preparación de entrega final
 
 ## Contribución
 

@@ -2,18 +2,18 @@
 
 ## 📖 Introducción
 
-Este documento presenta el cronograma detallado para el desarrollo del sistema e-VALuacion, incluyendo todas las fases del proyecto, actividades específicas, recursos asignados, dependencias y entregables. El cronograma está diseñado para un desarrollo ágil y colaborativo entre Felipe Ramos y Carlos García.
+Este documento presenta el cronograma detallado para el desarrollo del sistema e-VALuacion durante el tiempo del parcial. El cronograma está diseñado para completar todas las fases del proyecto en el tiempo asignado por el profesor.
 
 ## 🎯 Información General del Proyecto
 
 | **Campo** | **Detalle** |
 |-----------|-------------|
 | **Nombre del Proyecto** | Sistema e-VALuacion |
-| **Duración Total** | 8 semanas (56 días) |
-| **Fecha de Inicio** | 15 de Noviembre 2024 |
-| **Fecha de Finalización** | 10 de Enero 2025 |
+| **Duración Total** | 2 horas 10 minutos |
+| **Horario del Parcial** | 7:30 AM - 9:40 AM |
+| **Fecha** | Día del Parcial |
 | **Equipo de Desarrollo** | Felipe Ramos, Carlos García |
-| **Metodología** | Desarrollo Ágil con Sprints de 2 semanas |
+| **Metodología** | Desarrollo Ágil Intensivo |
 
 ## 📊 Resumen Ejecutivo del Cronograma
 
@@ -21,31 +21,29 @@ Este documento presenta el cronograma detallado para el desarrollo del sistema e
 
 ```
 ┌─────────────────────────────────────────────────────────────┐
-│                    DISTRIBUCIÓN DE FASES                   │
+│                DISTRIBUCIÓN DE TIEMPO DEL PARCIAL          │
 ├─────────────────────────────────────────────────────────────┤
 │                                                             │
-│ 📋 Fase 1: Análisis y Diseño        ████████░░░░ 20%       │
-│ 🏗️ Fase 2: Desarrollo Backend       ██████████░░ 25%       │
-│ 🎨 Fase 3: Desarrollo Frontend      ██████████░░ 25%       │
-│ 🔗 Fase 4: Integración y Testing    ████████░░░░ 20%       │
-│ 🚀 Fase 5: Despliegue y Documentación ████░░░░░░░ 10%      │
+│ 📋 Análisis y Diseño Inicial    ████████░░░░░░░░ 23%       │
+│ 🏗️ Desarrollo Core              ████████████████ 38%       │
+│ 🔗 Integración y Pruebas        ████████░░░░░░░░ 23%       │
+│ 🚀 Refinamiento Final           ██████░░░░░░░░░░ 16%       │
 │                                                             │
 └─────────────────────────────────────────────────────────────┘
 ```
 
-### Hitos Principales
+### Cronograma Detallado del Parcial
 
-| **Hito** | **Fecha** | **Entregable** |
-|----------|-----------|----------------|
-| 🎯 H1 | 22/Nov/2024 | Documentación y Diseño Completo |
-| 🎯 H2 | 06/Dic/2024 | Backend Funcional |
-| 🎯 H3 | 20/Dic/2024 | Frontend Completo |
-| 🎯 H4 | 03/Ene/2025 | Sistema Integrado y Probado |
-| 🎯 H5 | 10/Ene/2025 | Despliegue Final y Documentación |
+| **Horario** | **Duración** | **Fase** | **Actividades** |
+|-------------|--------------|----------|-----------------|
+| 7:30 - 8:00 AM | 30 min | 📋 Análisis y Diseño | Documentación y Diseño Inicial |
+| 8:00 - 8:50 AM | 50 min | 🏗️ Desarrollo | Desarrollo de Interfaces y Funcionalidades Core |
+| 8:50 - 9:20 AM | 30 min | 🔗 Integración | Integración, Pruebas y Documentación |
+| 9:20 - 9:40 AM | 20 min | 🚀 Finalización | Refinamiento y Preparación de Entrega Final |
 
-## 📋 FASE 1: Análisis y Diseño (Semanas 1-2)
+## 📋 FASE 1: Análisis y Diseño Inicial (7:30 - 8:00 AM)
 
-### **Semana 1: 15-22 Noviembre 2024**
+### **Bloque 1: Documentación y Análisis (30 minutos)**
 
 #### **Sprint 1.1: Documentación y Análisis**
 
